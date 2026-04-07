@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Fuel Station Management",
+  "description": "Comprehensive management system for fuel stations, tanks, dip charts, and density calculations.",
+  "requestFramePermissions": []
+}
